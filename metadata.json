@@ -1,0 +1,8 @@
+{
+  "name": "Quant Arena: The Algorithmic War",
+  "description": "A cyberpunk quantitative hedge fund strategy simulation game where players build algorithms, train machine learning models, analyze risk, and compete against rogue AI hedge funds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
